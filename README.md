@@ -1,0 +1,1 @@
+# fix-exif-data-rotation
